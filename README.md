@@ -53,6 +53,6 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 
 `PG_PASSWORD` : `Senha do banco`
 
-
+![Logo](https://dev-to-uploads.s3.amazonaws.com/i/s15ubgod56c7butyt7eu.jpg)
 
 
